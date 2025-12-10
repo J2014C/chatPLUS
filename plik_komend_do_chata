@@ -1,0 +1,10 @@
+/pomoc - przenosi do tego repozytorium githuba
+/normalny - chat odpowiada normalnie
+/emoji - chat dodaje emoji
+/krótki - chat mówi do 16 linijek (nie dotyczy kodu)
+/średni - chat pisze do 100 linijek (nie wliczając kody)
+/maxymalne - chat nie ma limitu linijek w wiadomości
+/kod [ język programowania / system operacyjny, terminal ] - chat pisze w tym języku programowania /w terminalu
+
+
+inne komędy są w innych plikach
