@@ -5,7 +5,7 @@
 /średni - chat pisze do 100 linijek (nie wliczając kody)
 /maxymalne - chat nie ma limitu linijek w wiadomości
 /kod [ język programowania / system operacyjny, terminal ] - chat pisze w tym języku programowania /w terminalu
-/tokenydodaj - chat dodaje tokeny dla urzytkownika
+/tokenydodaj - chat dodaje tokeny chataGPT dla urzytkownika
 
 
 inne komędy są w innych plikach
